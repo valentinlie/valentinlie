@@ -1,9 +1,23 @@
-# Hello there! <img src = "https://raw.githubusercontent.com/valentinlie/valentinlie/main/assets/wave.gif" width = 30px height="30px" />
+# Hello there! <img src = "https://raw.githubusercontent.com/valentinlie/valentinlie/main/assets/wave.gif" width = 30px height="30px">
 
 ✨ **I'm Valentin (he/him)** - I want to become a Software Developer/DevOps Engineer. I'm currently studying for an MSc in Information Systems at the University of Münster in Germany.
 
-💡 I'm interested in all things like: Cloud Computing, DevOps, Serverless and Machine Learning
+💡 I'm interested in all things related to: Cloud Computing, DevOps, Serverless and Machine Learning
 
 ### 💻 Tools and Languages I use
 
-[![My Skills](https://skillicons.dev/icons?i=linux,kubernetes,gcp,terraform,githubactions,py,ts,nodejs,git,vscodium,latex)](https://skillicons.dev)
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+  <img src="https://raw.githubusercontent.com/valentinlie/valentinlie/main/assets/icons/googlecloud.svg" alt="GCP" height="50">
+  <img src="https://raw.githubusercontent.com/valentinlie/valentinlie/main/assets/icons/kubernetes.svg" alt="Kubernetes" height="50">
+  <img src="https://raw.githubusercontent.com/valentinlie/valentinlie/main/assets/icons/argocd.svg" alt="ArgoCD" height="50">
+  <img src="https://raw.githubusercontent.com/valentinlie/valentinlie/main/assets/icons/githubactions.svg" alt="GitHub Actions" height="50">
+  <img src="https://raw.githubusercontent.com/valentinlie/valentinlie/main/assets/icons/pulumi.svg" alt="Pulumi" height="50">
+  <img src="https://raw.githubusercontent.com/valentinlie/valentinlie/main/assets/icons/linux.svg" alt="Linux" height="50">
+  <img src="https://raw.githubusercontent.com/valentinlie/valentinlie/main/assets/icons/podman.svg" alt="Podman" height="50">
+  <img src="https://raw.githubusercontent.com/valentinlie/valentinlie/main/assets/icons/python.svg" alt="Python" height="50">
+  <img src="https://raw.githubusercontent.com/valentinlie/valentinlie/main/assets/icons/typescript.svg" alt="TypeScript" height="50">
+  <img src="https://raw.githubusercontent.com/valentinlie/valentinlie/main/assets/icons/visualstudiocode.svg" alt="VSCode" height="50">
+  <img src="https://raw.githubusercontent.com/valentinlie/valentinlie/main/assets/icons/git.svg" alt="Git" height="50">
+</div>
+
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=valentinlie&show_icons=true&theme=dracula) -->
